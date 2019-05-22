@@ -1,0 +1,3 @@
+rootProject.name = 'uniradio_3704'
+
+include ':app'
